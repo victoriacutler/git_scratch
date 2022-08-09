@@ -24,3 +24,9 @@ You can add options to executable code like this
 ```
 
 The `echo: false` option disables the printing of code (only output is displayed).
+
+Add some awesome text
+
+```{r}
+cool_code <- c(1, 2, 3)
+```
