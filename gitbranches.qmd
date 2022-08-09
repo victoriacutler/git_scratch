@@ -30,3 +30,5 @@ Add some awesome text
 ```{r}
 cool_code <- c(1, 2, 3)
 ```
+
+Wow lots of good githubbings today.
